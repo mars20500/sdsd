@@ -1,0 +1,5 @@
+{
+  "name": "Bulk SPF Record Lookup Tool",
+  "description": "A fast and efficient tool to perform bulk lookups of SPF (Sender Policy Framework) records for up to 10,000 domains or IP addresses simultaneously. Results are displayed in a clear, organized table and can be exported to CSV.",
+  "requestFramePermissions": []
+}
